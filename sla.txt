@@ -1,0 +1,1 @@
+preciso que voce escreva um script python para instalaçao desse programa windows por esse comando: curl -o motainnai  "https://github.com/onlyvitor/mottainAI/blob/main/install.sh", após executar esse comando é necessario que mova ele para pastas Downloads do usuario e indique que o programa foi instalado. o retorno deve ser explicito e não deve esconder nenhuma informação.
